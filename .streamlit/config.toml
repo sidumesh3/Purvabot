@@ -1,6 +1,6 @@
 [theme]
-primaryColor = "#F57C00"                # Saffron
-backgroundColor = "#FFF8E1"             # Light ivory
-secondaryBackgroundColor = "#6D4C41"    # Brown
-textColor = "#262730"                   # Deep gray
+primaryColor = "#F57C00"              # Saffron (unchanged)
+backgroundColor = "#FFF8E1"           # Ivory (unchanged)
+secondaryBackgroundColor = "#F5E2D0"  # Light brownish cream (so input box contrasts better)
+textColor = "#262730"                 # Dark slate (unchanged)
 font = "sans serif"
