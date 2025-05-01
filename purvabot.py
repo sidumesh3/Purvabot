@@ -10,7 +10,7 @@ with open("purva_industries_faq.txt", "r", encoding="utf-8") as file:
     purva_data = file.read()
 
 # Streamlit UI
-st.title("PurvaBot – Purva Industries Virtual Helpdesk")
+st.title("Purva Industries Virtual Helpdesk")
 st.markdown("Instant answers about pricing, logistics, product info, and company background.")
 
 user_question = st.text_input("Your Question")
